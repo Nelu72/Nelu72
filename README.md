@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github_profile_banner.svg" alt="Neluminda Pavith Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="120" alt="Hacker avatar" />
 </p>
 
 <h1 align="center">Hi there, I'm Neluminda Pavith! 👋</h1>
@@ -64,6 +64,6 @@
   </table>
   <br>
   <a href="https://github.com/nelu72">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nelu72&theme=radical" alt="GitHub Streak" width="810" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nelu72&theme=radical&hide_total_contributions=true" alt="GitHub Streak" width="810" />
   </a>
 </div>
