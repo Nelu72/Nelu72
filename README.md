@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="./assets/github_profile_banner.svg" alt="Neluminda Pavith Banner" width="100%" />
+  <img src="./github_profile_banner.svg" alt="Neluminda Pavith Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm Neluminda Pavith! 👋</h1>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nelu72&theme=radical&column=7&no-bg=true" alt="nelu72 trophies" />
+    <img src="https://github-trophies.devomb.com/?username=nelu72&theme=radical&column=7&no-bg=true" alt="nelu72 trophies" />
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <strong>Full Stack Developer from Sri Lanka 🇱🇰</strong><br>
@@ -52,12 +52,12 @@
     <tr>
       <td align="center" valign="top">
         <a href="https://github.com/nelu72">
-          <img src="https://github-readme-stats.vercel.app/api?username=nelu72&show_icons=true&theme=radical&count_private=true" alt="Neluminda's GitHub Stats" height="195" />
+          <img src="https://github-stats-extended.vercel.app/api?username=nelu72&show_icons=true&theme=radical&count_private=true" alt="Neluminda's GitHub Stats" height="195" />
         </a>
       </td>
       <td align="center" valign="top">
         <a href="https://github.com/nelu72">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelu72&layout=compact&theme=radical" alt="Neluminda's Top Languages" height="195" />
+          <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nelu72&layout=compact&theme=radical" alt="Neluminda's Top Languages" height="195" />
         </a>
       </td>
     </tr>
